@@ -1,0 +1,14 @@
+{
+  "total_rows": 95758,
+  "new_lookup_calls": 35515,
+  "cached_results_used": 1,
+  "estimated_prompt_tokens": 379698,
+  "estimated_completion_tokens": 242039,
+  "estimated_total_tokens": 621737,
+  "token_price_per_million": 0.050000,
+  "estimated_lookup_cost": 0.031087,
+  "estimated_cost_per_1m_rows": 0.324643,
+  "original_copy": "data/output/20260521_181803/original_inventory.csv",
+  "enriched_csv": "data/output/20260521_181803/enriched_inventory.csv",
+  "vehicle_details_csv": "data/output/20260521_181803/vehicle_details.csv"
+}
